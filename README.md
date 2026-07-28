@@ -4,7 +4,6 @@ An Arduino Uno environmental monitoring system using an AHT20 and BMP280 sensor 
 
 The system measures temperature, humidity, and atmospheric pressure, then displays the readings on the OLED and in the Arduino Serial Monitor.
 
-![Project wiring diagram](images/wiring_diagram.png)
 
 ## Project Overview
 
